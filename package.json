@@ -10,6 +10,6 @@
   "devDependencies": {
     "@nx/js": "18.2.2",
     "@nx/workspace": "18.2.2",
-    "nx": "18.2.2"
+    "nx": "18.3.3"
   }
 }
