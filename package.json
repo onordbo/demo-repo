@@ -5,7 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.3.1"
   },
   "devDependencies": {
     "@nx/js": "18.2.2",
